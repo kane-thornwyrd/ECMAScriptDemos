@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: '/ECMAScriptDemos',
   siteMetadata: {
     title: 'GODOT ECMAScript Demos',
     author: 'Geequlim',
